@@ -1,0 +1,6 @@
+deploy:
+  commands:
+    - echo "deploy"
+destroy:
+  commands:
+    - echo "destroy"
