@@ -3,4 +3,4 @@ deploy:
     - echo "deploy"
 destroy:
   commands:
-    - echo "destroy"
+    - exit 1
